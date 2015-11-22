@@ -6,4 +6,19 @@
 
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="weekdays">
+        <item>MONDAYS</item>
+        <item>TUESDAYS</item>
+        <item>WEDNESDAYS</item>
+        <item>THURSDAYS</item>
+        <item>FRIDAYS</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>ND1</item>
+        <item>ND2</item>
+        <item>HND1</item>
+        <item>HND2</item>
+    </string-array>
 </resources>

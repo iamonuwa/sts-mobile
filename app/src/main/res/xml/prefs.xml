@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key = "name"
+        android:summary="Enter Your Name"
+        android:title="Name (Surname First)"/>
+
+    <ListPreference
+        android:entries="@array/level"
+        android:key="levelpref"
+        android:summary="Select Your Level"
+        android:title="Level" />
+
+</PreferenceScreen>
